@@ -3,9 +3,9 @@
         "abort": {
             "already_configured": "Bridge is al geconfigureerd",
             "already_in_progress": "Configuratiestroom voor bridge wordt al ingesteld.",
-            "no_bridges": "Geen deCONZ bruggen ontdekt",
+            "no_bridges": "Geen deCONZ apparaten ontdekt",
             "not_deconz_bridge": "Dit is geen deCONZ bridge",
-            "one_instance_only": "Component ondersteunt slechts \u00e9\u00e9n deCONZ instance",
+            "one_instance_only": "Component ondersteunt slechts \u00e9\u00e9n deCONZ instantie",
             "updated_instance": "DeCONZ-instantie bijgewerkt met nieuw host-adres"
         },
         "error": {
@@ -48,6 +48,7 @@
     "device_automation": {
         "trigger_subtype": {
             "both_buttons": "Beide knoppen",
+            "bottom_buttons": "Onderste knoppen",
             "button_1": "Eerste knop",
             "button_2": "Tweede knop",
             "button_3": "Derde knop",
@@ -64,6 +65,7 @@
             "side_4": "Zijde 4",
             "side_5": "Zijde 5",
             "side_6": "Zijde 6",
+            "top_buttons": "Bovenste knoppen",
             "turn_off": "Uitschakelen",
             "turn_on": "Inschakelen"
         },
